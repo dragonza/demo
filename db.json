@@ -1,26 +1,26 @@
 {
   "data": {
-    "noteList": {
-      "111": {
+    "noteList": [
+      {
         "id": 111,
         "task": "Learn Machine Learning"
       },
-      "112": {
+      {
         "id": 112,
         "task": "Practis ietls speaking"
       }
-    },
-    "laneList": {
-      "32321321": {
+    ],
+    "laneList": [
+      {
         "id": 32321321,
         "notes": [111],
         "name": "To do"
       },
-      "43545454": {
+      {
         "id": 43545454,
         "notes": [112],
         "name": "In Progress"
       }
-    }
+    ]
   }
 }
